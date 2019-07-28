@@ -1,2 +1,2 @@
 # FTDI_Python
-FTDI Chip support for the FTDI USB to I2C and SPI devices
+FTDI Python Chip support for the FTDI FT232 USB to I2C and SPI devices
